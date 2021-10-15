@@ -1,0 +1,5 @@
+code/*.tfstate
+code/*.backup
+code/*.hcl
+*.swp
+code/.terraform/*
